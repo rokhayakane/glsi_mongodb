@@ -1,0 +1,15 @@
+{
+  "name": "first_server",
+  "version": "1.0.0",
+  "description": "my first nodejs server",
+  "main": " main.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "author": "rokhaya",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.3.0",
+    "morgan": "^1.10.0"
+  }
+}
